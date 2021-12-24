@@ -84,6 +84,8 @@ Alternatively You could check out the [IOST developer docs](https://developers.i
 ## Building Smart Contracts
 
 [Build Hello World Contract](https://github.com/vinayakkalra/IOST-hello-world-contract)
+
 [A simple storage contract](https://github.com/vinayakkalra/IOST-simple-storage-contract)
+
 [Crowdfunding Contract](https://github.com/vinayakkalra/IOST-crowd-funding-contract)
 
