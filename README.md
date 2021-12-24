@@ -17,7 +17,7 @@ A complete guide for Smart Contract development on IOST chain. This repository c
   - [Softwares required for IOST Smart Contract Development](#softwares-required-for-iost-smart-contract-development)
   - [Setting Up Development Environment](#setting-up-development-environment)
 - [Lesson 4: Understanding Smart Contracts](#lesson-4-understanding-smart-contracts)
-  - [Building a storage smart contract](#building-a-storage-smart-contract)
+  - [Building smart contracts](#building-smart-contracts)
   
 
 # Resources For This Course
@@ -81,5 +81,9 @@ Alternatively You could check out the [IOST developer docs](https://developers.i
 
 # Lesson 4: Understanding Smart Contracts
 
-## Building a storage smart contract
+## Building Smart Contracts
+
+[Build Hello World Contract](https://github.com/vinayakkalra/IOST-hello-world-contract)
+[A simple storage contract](https://github.com/vinayakkalra/IOST-simple-storage-contract)
+[Crowdfunding Contract](https://github.com/vinayakkalra/IOST-crowd-funding-contract)
 
